@@ -1,6 +1,34 @@
 [
-  { "file": "1-overview.jpg", "path": "#/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-population.jpg", "path": "#/population", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-economy.jpg", "path": "#/economy", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "4-overview-phone.jpg", "path": "#/", "viewport": { "width": 390, "height": 844 } }
+  {
+    "file": "1-overview.jpg",
+    "path": "#/",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  {
+    "file": "2-population.jpg",
+    "path": "#/population",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  {
+    "file": "3-economy.jpg",
+    "path": "#/economy",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  {
+    "file": "4-overview-phone.jpg",
+    "path": "#/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  }
 ]
